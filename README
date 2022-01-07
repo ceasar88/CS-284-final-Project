@@ -1,0 +1,8 @@
+README: summary of project files
+project.ipynb: Complete project source code
+project.html: HTML web version of project code notebook
+proposal.pdf: Project proposal
+report.pdf:final project report
+presentation.pdf: project presentation slides
+data/data.xlsx: target-gRNA pairs dataset
+src/project.ipynb: Complete project source code
