@@ -12,7 +12,7 @@ Given a DNA target-gRNA pair, can we predict the risk of off-target activity if 
 project.ipynb: Complete project source code  
 project.html: HTML web version of project code notebook  
 proposal.pdf: Project proposal  
-report.pdf:final project report  
+report.pdf: final project report  
 presentation.pdf: project presentation slides  
 data/data.xlsx: target-gRNA pairs dataset  
 src/project.ipynb: Complete project source code  
