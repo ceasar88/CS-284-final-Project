@@ -8,4 +8,13 @@ The clustered regularly interspaced short palindromic repeats (CRISPR) technolog
 ### Problem Statement 
 Given a DNA target-gRNA pair, can we predict the risk of off-target activity if the  Crispr technology were to be deployed for gene editing using that specific pair. This  project looks to apply different artificial neural network models towards predicting  off-target activity when using Crispr gRNAs.
 
+### summary of project files
+project.ipynb: Complete project source code
+project.html: HTML web version of project code notebook
+proposal.pdf: Project proposal
+report.pdf:final project report
+presentation.pdf: project presentation slides
+data/data.xlsx: target-gRNA pairs dataset
+src/project.ipynb: Complete project source code
+
 #### See project report for full documentation.
